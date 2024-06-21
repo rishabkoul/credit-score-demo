@@ -1,5 +1,5 @@
 import "./App.css";
-import { MfReport } from "mf-reports";
+import MfReport from "mf-reports";
 
 function App() {
   return (

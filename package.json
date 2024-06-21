@@ -10,7 +10,7 @@
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
-    "mf-reports": "https://github.com/rishabkoul/rolllup-export"
+    "mf-reports": "git+ssh://git@bitbucket.org:paytmteam/pspl-mf-reports.git#task/PSPL-2112-embed-mf-reports-as-npm-library"
   },
   "scripts": {
     "start": "react-scripts start",
